@@ -1,13 +1,15 @@
 # CovidData
 PROJENİN AMACI VE
-PROBLEM
+PROBLEM:
+
 Problemin amacı: evde kalma, dışarı çıkma,
 aşılama oranlarının artış azalış durumuna göre
 günlük vakanın artış azalış oran tahmin
 edilmesi.
 Bu problemin çözümünde 2021 verisi
 kullanılmıştır.
-ÇÖZÜM
+ÇÖZÜM:
+
 Problemde classification metodu
 kullanılmıştır. Verilen bağımsız değişkenlere
 artıp azalma, sabit kalma durumlarına göre
