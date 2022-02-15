@@ -8,6 +8,7 @@ günlük vakanın artış azalış oran tahmin
 edilmesi.
 Bu problemin çözümünde 2021 verisi
 kullanılmıştır.
+
 ÇÖZÜM:
 
 Problemde classification metodu
